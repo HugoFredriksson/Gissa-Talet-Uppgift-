@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\sak\bin\Debug\net5.0\sak.exe
+C:\Users\Admin\Desktop\sak\bin\Debug\net5.0\sak.deps.json
+C:\Users\Admin\Desktop\sak\bin\Debug\net5.0\sak.runtimeconfig.json
+C:\Users\Admin\Desktop\sak\bin\Debug\net5.0\sak.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\sak\bin\Debug\net5.0\sak.dll
+C:\Users\Admin\Desktop\sak\bin\Debug\net5.0\ref\sak.dll
+C:\Users\Admin\Desktop\sak\bin\Debug\net5.0\sak.pdb
+C:\Users\Admin\Desktop\sak\obj\Debug\net5.0\sak.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\sak\obj\Debug\net5.0\sak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\sak\obj\Debug\net5.0\sak.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\sak\obj\Debug\net5.0\sak.AssemblyInfo.cs
+C:\Users\Admin\Desktop\sak\obj\Debug\net5.0\sak.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\sak\obj\Debug\net5.0\sak.dll
+C:\Users\Admin\Desktop\sak\obj\Debug\net5.0\ref\sak.dll
+C:\Users\Admin\Desktop\sak\obj\Debug\net5.0\sak.pdb
+C:\Users\Admin\Desktop\sak\obj\Debug\net5.0\sak.genruntimeconfig.cache
