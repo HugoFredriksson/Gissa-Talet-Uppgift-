@@ -39,6 +39,8 @@ namespace sak
                 }
 
                     Console.WriteLine("Najs, talet var " + returnValue + " och du tog " + count + " försök på dig att gissa rätt svar!");
+                    Console.WriteLine("Skriv Dotnet Run för att spela igen");
+                    Console.ReadLine();
         }
     }
 }
